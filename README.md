@@ -26,10 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img height="200" src="https://github.com/sindresorhus/sindresorhus/raw/main/flames.gif"  />
-</div>
 
 ###
